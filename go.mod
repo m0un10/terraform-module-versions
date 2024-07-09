@@ -33,3 +33,5 @@ require (
 	golang.org/x/tools v0.0.0-20201211025543-abf6a1d87e11 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
+
+replace github.com/imdario/mergo => dario.cat/mergo v1.0.0
